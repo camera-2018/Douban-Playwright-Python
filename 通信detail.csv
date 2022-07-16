@@ -1,0 +1,102 @@
+,作者,出版社,出版年,页数,定价,装帧,ISBN,简介,书名,图片,译者,丛书,副标题,原作名,出品方
+1,Robert G. Gallager,Cambridge University Press,2008-3-24,422,USD 99.99,Hardcover,9780521879071,"The renowned communications theorist Robert Gallager brings his lucid writing style to the study of the fundamental system aspects of digital communication for a one-semester course for graduate students. With the clarity and insight that have characterized his teaching and earlier textbooks, he develops a simple framework and then combines this with careful proofs to help the reader understand modern systems and simplified models in an intuitive yet precise way. A strong narrative and links between theory and practice reinforce this concise, practical presentation. The book begins with data compression for arbitrary sources. Gallager then describes how to modulate the resulting binary data for transmission over wires, cables, optical fibers, and wireless channels. Analysis and intuitive interpretations are developed for channel noise models, followed by coverage of the principles of detection, coding, and decoding. The various concepts covered are brought together in a description of wireless communication, using CDMA as a case study.
+
+投诉",Principles of Digital Communication,https://img9.doubanio.com/view/subject/s/public/s4307126.jpg,,,,,
+2,周圣君,人民邮电出版社,2021-7,220,69.8,平装,9787115558022,"本书用图文搭配的方式搭建了关于5G的知识框架，提供了有趣、实用、丰富、浅显易懂的内容。本书共11章，从5G的演进背景开始，介绍什么是5G，为什么要有5G，接着阐释5G有什么特点，5G的核心技术和研发进展如何，5G有哪些应用方向，5G的网络架构是怎样的，然后呈现5G的产业链，并进一步分析5G在发展过程中可能面临的瓶颈问题，以及未来的前景。
+
+本书适合通信行业的专业技术人员、高等院校通信或电子信息专业的学生，以及想了解5G知识的初学者阅读。",鲜枣课堂：5G通识讲义,https://img9.doubanio.com/view/subject/s/public/s34025755.jpg,,,,,
+3,(美)David Tse;Pramod Viswanath,人民邮电出版社,2007-7,426,59.00元,,9787115161543,"《无线通信基础》由无线通信领域新一代权威Tse根据教学实际编写而成，已被加州大学伯克利分校、麻省理工学院等众多名校和高通等世界知名公司作为教材。《无线通信基础》重点介绍无线通信的基本原理，读者只需具有概率论和数字通信基本背景。《无线通信基础》所涉及的主要问题有MIMO通信、空时编码、机会通信、OFDM和CDMA等，这些概念均利用无线系统的大量实例予以说明。《无线通信基础》着重强调概念及其在系统中的实现之间的相互影响。书中还配有大量的习题和图表，可以帮助读者进一步理解材料内容。
+
+《无线通信基础》适合作为通信工程和电子信息类相关专业高年级本科生和研究生的教材，同时也可供工程技术人员参考。",无线通信基础,https://img9.doubanio.com/view/subject/s/public/s5829334.jpg,李锵,图灵电子与电气工程丛书,,,
+4,王映民 孙韶辉,人民邮电出版社,2020-11,653,199元,平装,9787115530387,"本书全面系统地介绍了5G移动通信系统设计与标准协议。第一部分（第1-3章）系统概述与标准体系，主要介绍移动通信及5G发展的总体情况、5G系统的网络架构与标准体系、接入网的架构与接口；第二部分（第4-11章）物理层协议设计，涵盖帧结构与物理信道、物理层过程与控制信道、大规模多天线、信道编码、NR与LTE共存、功率控制等；第三部分（第12-13章）空口高层协议设计，包括高层协议基本过程、用户平面协议和控制平面协议；第四部分（第14-17章）接入网接口设计，对NG协议接口、Xn协议接口、F1协议接口和E1协议接口作了具体介绍；第五部分（第18-21章）系统射频指标与协议规范，涵盖基站射频指标、终端射频指标和无线资源管理指标。
+
+作者团队亲身参与了LTE与5G国际标准化的过程，本书基于他们对技术和标准化的独到而深入的认识及理解编撰而成。",5G移动通信系统设计与标准详解,https://img9.doubanio.com/view/subject/s/public/s33750285.jpg,,,,,
+5,"[美] Thomas M.Cover,Joy A.Thomas",机械工业出版社,2005-5,435,56.00元,简裝本,9787111162452,信息论基础，ISBN：9787111162452，作者：（美）Thomas M.Cover，（美）Joy A.Thomas著；阮吉寿，张华译,信息论基础,https://img9.doubanio.com/view/subject/s/public/s8488134.jpg,,,,,
+6,Constantine A. Balanis,Wiley-Interscience,2005-04-04,1136,USD 157.00,Hardcover,9780471667827,"The discipline of antenna theory has experienced vast technological changes. In response, Constantine Balanis has updated his classic text, Antenna Theory, offering the most recent look at all the necessary topics. New material includes smart antennas and fractal antennas, along with the latest applications in wireless communications. Multimedia material on an accompanying CD presents PowerPoint viewgraphs of lecture notes, interactive review questions, Java animations and applets, and MATLAB features. Like the previous editions, Antenna Theory, Third Edition meets the needs of electrical engineering and physics students at the senior undergraduate and beginning graduate levels, and those of practicing engineers as well. It is a benchmark text for mastering the latest theory in the subject, and for better understanding the technological applications. An Instructor's Manual presenting detailed solutions to all the problems in the book is available from the Wiley editorial department.
+
+投诉",Antenna Theory,https://img9.doubanio.com/view/subject/s/public/s4335884.jpg,,,"Analysis and Design, 3rd Edition",,
+7,David Tse / Pramod Viswanath,Cambridge University Press,2005-7-11,586,USD 92.00,Hardcover,9780521845274,"The past decade has seen many advances in physical layer wireless communication theory and their implementation in wireless systems. This textbook takes a unified view of the fundamentals of wireless communication and explains the web of concepts underpinning these advances at a level accessible to an audience with a basic background in probability and digital communication. Topics covered include MIMO (multi-input, multi-output) communication, space-time coding, opportunistic communication, OFDM and CDMA. The concepts are illustrated using many examples from real wireless systems such as GSM, IS-95 (CDMA), IS-856 (1 x EV-DO), Flash OFDM and UWB (ultra-wideband). Particular emphasis is placed on the interplay between concepts and their implementation in real systems. An abundant supply of exercises and figures reinforce the material in the text. This book is intended for use on graduate courses in electrical and computer engineering and will also be of great interest to practising engineers.
+
+投诉",Fundamentals of Wireless Communication,https://img3.doubanio.com/view/subject/s/public/s7042470.jpg,,,,,
+8,袁国良,清华大学出版社,2004-7,223,23.00元,简裝本,9787302087908,"本书主要介绍了光纤通信的发展；光纤通信的物理学基础；光纤的组成及原理；光源、光电检测器的结构和工作原理；光缆和光纤通信器件；光发射机、光接收机以及光纤通信系统的构成、性能和设计；光波分复用技术、相干光通信以及光孤子通信等。
+
+本书力求从基础知识出发，循序渐进，深入浅出，以便读者对本书任何内容的阅读都不会有太大的跳跃性。本书可以作为高等学校本科生和研究生的教材，也可以作为从事光纤通信的科研人员、工程技术人员和其他相关人员的参考书。",光纤通信原理,https://img9.doubanio.com/view/subject/s/public/s8973625.jpg,,,,,
+9,"Eloranta, Eero",John Wiley & Sons Inc,,384,,,9781118694152,,Designing Distributed Control Systems A Pattern Language Approach,https://img9.doubanio.com/view/subject/s/public/s29396984.jpg,,,,,
+10,陈爱军,清华大学出版社,2017-12-22,351,CNY 89.00,平装,9787302483861,,深入浅出通信原理,https://img2.doubanio.com/view/subject/s/public/s33920593.jpg,,,,,
+11,拉贝艾,电子工业出版社,2004-10,553,58.00元,简裝本,9787121003837,《国外电子与通信教材系列·数字集成电路:电路、系统与设计(第2版)》由美国加州大学伯克利分校JanM.Rabaey教授撰写。全书共12章，分为三个部分：基本单元、电路设计和系统设计。《数字集成电路——电路、系统与设计》在对MOS器件和连线的特性做了简要介绍之后，深入分析了数字设计的核心——反相器，并逐步将这些知识延伸到组合逻辑电路、时序逻辑电路、控制器、运算电路以及存储器这些复杂数字电路与系统的设计中。为了反映数字集成电路设计进入深亚微米领域后正在发生的深刻变化，第二版增加了许多新的内容，并以0.25微米CMOS工艺的实际电路为例，讨论了深亚微米器件效应、电路最优化、互连线建模和优化、信号完整性、时序分析、时钟分配、高性能和低功耗设计、设计验证、芯片测试和可测性设计等主题，着重探讨了深亚微米数字集成电路设计面临的挑战和启示。,数字集成电路,https://img2.doubanio.com/view/subject/s/public/s10443373.jpg,周润德,国外电子与通信教材系列,电路、系统与设计,,
+12,郭宝 / 张阳 / 刘波,机械工业出版社,2016-4-1,252,49.8,平装,9787111531968,"本书着重讲解LTE网络各种业务的端到端优化分析方法，对数据、语音业务从终端支持的方式开始讲解，从不同接口的协议栈框架到端到端流程涉及的信令流程进行详尽的阐述，尤其是对LTE网络语音业务的支撑情况从临时解决方案CSFB到VoLTE都进行了细致的分析。此外，对不同业务实现过程中各类性能指标、感知指标生成的过程，涉及的无线参数以及新业务对传统业务的影响等方面展开深入的讨论。本书立足于网优分析方法论，依据“遇到问题，展开分析，优化解决，实施规避”的闭环流程，对快速定位、定界问题进行全方位的阐述，并给出了多个实际案例供读者参考，力争达到触类旁通的效果。　　本书主要读者对象为从事移动通信技术研究与产品开发的人员、网络规划设计工程师、网络优化工程师、系统运营管理人员、移动互联网分析工程师、大数据研发人员、客户感知分析人员、咨询公司行业分析师以及高等院校通信专业的师生。
+
+作者简介
+
+投诉",LTE学习笔记,https://img9.doubanio.com/view/subject/s/public/s29444215.jpg,,,从无线优化到端到端优化,,
+13,[美] Andreas F. Molisch,电子工业出版社,2015-1,705,109.00 元,平装,9787121249891,"经典译丛·信息与通信技术：无线通信（第二版）》系统讲解无线通信原理、技术和系统设计所涉及的各个方面。
+
+《经典译丛·信息与通信技术：无线通信（第二版）》内容共分五部分（合计29章），包括无线传播信道的机制、特性、建模与探测，通信收发信机的调制、分集、信道编码、语音编码和均衡技术，多址与蜂窝、OFDM、扩频技术、多天线技术、认知无线电、中继与协作通信、视频编码，以及当前主流和最新出现的无线标准系统。《经典译丛·信息与通信技术：无线通信（第二版）》既包含无线通信的通用处理技术，又包含当前热门的研究专题。书中的讲解凸显数学描述和直观物理解释相结合，深入浅出，给出的大量例题和习题（为第30章）取自当前主流无线通信系统和标准的实际案例。
+
+《经典译丛·信息与通信技术：无线通信（第二版）》适合作为通信工程和电子信息类相关专业高年级本科生、研究生和实践工程师的教材，更可作为无线通信工程师和科研人员案头必备的参考书。
+
+投诉",无线通信,https://img1.doubanio.com/view/subject/s/public/s29107259.jpg,田斌 / 帖翊 / 任光亮,经典译丛·信息与通信技术,第二版,Wireless Communications Second Edition,
+14,吴军,人民邮电出版社,2019-6,956,139.00元,平装,9787115514226,"这不只是一部科技产业发展历史集……
+
+更是在这个智能时代，一部IT人非读不可，而非IT人也应该阅读的作品。
+
+一个企业的发展与崛起，绝非只是空有领导强人即可达成。任何的决策、同期的商业环境、各种能量的此消彼长，也在影响着企业的兴衰。《浪潮之巅》不只是一部历史书 ，除了讲 述 科技顶尖企业的发展规律， 对于华尔街如何左右科技公司，以及金融风暴对科技产业的冲击，也多有着墨。
+
+《浪潮之巅 第四版》新增了6章内容，探讨硅谷不竭的创新精神究竟源自何处，进一步从工业革命的范式、生产关系的革命等角度深入全面阐述信息产业的规律性。从而，借助对信息时代公司管理特点进行的系统分析，对下一代科技产业浪潮给出判断和预测。
+
+---------------
+
+第四版增加了大约1/4的章节，包括：
+
+·“八叛徒与硅谷”（关于罗伊斯、摩尔等“八叛徒”创办仙童公司，开创全世界半导体产业的事迹）；
+
+·“社交网络和Facebook”（以Facebook为核心，介绍社交网络的起源、发展和商业规律）；
+
+·“生产关系的革命”（介绍硅谷企业独到的管理特点，特别是企业中新型的人与人的关系，以及较为合理的分配制度）；
+
+·“汽车革命”（以特斯拉和字母表（Alphabet）旗下的Waymo为核心，介绍电动汽车和无人驾驶汽车产业）；
+
+·“工业革命和颠覆式创新的范式”（介绍从第一次工业革命开始，历次工业革命的规律性）；
+
+·“信息时代的科学基础”（介绍信息时代企业做事方法背后的科学基础和方法论，控制论、系统论和信息论在管理中的应用）。
+
+投诉",浪潮之巅（第四版）（上下册）,https://img1.doubanio.com/view/subject/s/public/s32513229.jpg,,,,,Just-pub
+15,,机械工业出版社,2020-5-1,319,,平装,9787111641827,本书为普及光通信技术知识而编写。本书运用通俗的语言和生动的插图对光纤通信、大气光通信、蓝绿光通信、可见光通信及量子通信的一些基本概念进行了系统的阐述，本书无论从内容选取、机理说明、概念解释，还是从文字叙述、插图说明和实用程度等方面，都具备自己的特色，适合想初步了解光通信基础知识的人员阅读，也可作为大中专院校相关专业的参考书籍，同时对从事光通信系统和网络研究教学、规划设计、管理和维护的有关人员也有一定的参考价值。,认识光通信,https://img1.doubanio.com/view/subject/s/public/s33666237.jpg,,,,,
+16,Edward A.Lee / Pravin Varaiya,电子工业出版社,2006-4,402,48.00元,简裝本,9787121023996,本书是关于“信号与系统”的导论，是来自加州大学伯克利分校相关课程讲稿的精髓，以有趣的实际应用激发读者兴趣，结合许多实验资料和丰富的教学资源，展现给读者一本完全不同于以往课本的信号与系统教材，反映了当代数字世界的真实性。全书从介绍实用的信号与系统出发，利用函数与集合的概念来重新了定义信号与系统，并提出了系统的统一建模方法；论述了状态机的基本原理及组成方法，扩展了线性时不变系统的含义；有机地结合了信号的频率分析及线性时不变系统的频率响应分析；总结了经典的傅里叶变换工具，探讨了信号与系统的频域分析方法与应用。,信号与系统结构精析,https://img2.doubanio.com/view/subject/s/public/s10426661.jpg,吴利民,,,,
+17,"Ghassemlooy, Zabih; Popoola, Wasiu; Rajbhandari, Sujan",,,575,,,9781439851883,,Optical Wireless Communications System and Channel Modelling with MATLAB,https://img9.doubanio.com/view/subject/s/public/s20459694.jpg,,,,,
+18,[瑞典] Erik Dahlman,人民邮电出版社,2012-5,316,79.00元,平装,9787115278548,"内容简介：
+
+本书是《3G演进：HSPA与LTE（第2版）》的升级版，专注于LTE和LTE-Advanced（LTE第10版），全面概述了LTE的基本技术以及LTE标准，具体阐述了如何实现4G技术。书中对移动方案的每个组成部分都进行了详尽诠释，帮助读者理解如何在移动宽带通信产品和系统中实现和部署LTE。
+
+细致入微地介绍了3GPP 第10版 LTE无线接入标准和技术中的最新内容。
+
+清晰阐述了LTE基本技术，包括OFDM和MIMO。
+
+完整覆盖了提交到ITU-R的LTE-Advanced内容，包括LTE载波聚合、扩展的多天线传输、中继功能以及异构网络。
+
+详细讨论了LTE无线接口架构、物理层、接入过程、广播、射频特性以及系统性能。",4G移动通信技术权威指南,https://img1.doubanio.com/view/subject/s/public/s9071299.jpg,[瑞典] Stefan Parkvall / [瑞典] Johan Sk?ld,图灵电子与电气工程丛书,LTE与LTE-Advanced,4G LTE：LTE-Advanced for Mobile,
+19,陈学梁,电子工业出版社,2017-10-1,328,,,9787121327186,本书根据核心网演进的脉络，采用浅显易懂的类比方式，描述了程控交换、七号信令、NGN网络、SIP协议、IMS网络、UMTS PS核心网、LTE EPC核心网、软件化的5G核心网等系统，并根据多年的技术理解，论述了核心网演进的基本规律，向读者描述了一张完整的核心网发展图。通过回顾核心网的历史，可以更深入地理解作者关于核心网发展的一些思考和结论。本书是在第1版的基础上修订而成的，主要增加了5G的定义、特点、标准化进程、频谱、关键技术和所面临的挑战等内容。本书面向通信从业人员，用浅显易懂的表述方式，全新地阐述了核心网的方方面面，适合高校教师、相关专业的学生、运营商、设备商，以及通信网络规划人员阅读与参考。,大话核心网（第2版）,https://img2.doubanio.com/view/subject/s/public/s29669962.jpg,,5G新技术丛书,,,
+20,周立云//胡月芬,电子工业出版社,2009-3,286,35.00元,,9787121082610,《用万用表修手机》从维修的角度出发，由浅入深，由简到繁，从手机的基础知识着手，介绍用万用表维修普通手机、多功能手机、智能手机、3G手机的方法与技巧，以典型机型为例，以便读者能够触类旁通，举一反三；在介绍故障维修时，以图解的形式，使读者能一目了然地了解故障部位，结合文字说明使读者能够快速了解故障产生的原因及各种关键元件、关键点、关键部位损坏时的故障特征。,用万用表修手机,https://img2.doubanio.com/view/subject/s/public/s6001133.jpg,,,,,
+21,沈嘉等,人民邮电出版社,2008-1,450,69.00元,,9787115185723,本书系统地介绍了3GPP长期演进(LTE)的技术原理和系统设计。全书分为9章，第1章首先介绍了LTE产生的背景，然后概述了LTE的重要技术特点；第2章介绍了LTE的需求指标；第3章详细介绍了LTE物理层协议的内容；第4章讨论了LTE无线传输技术的原理及其选择过程；第5章介绍了LTE无线传输系统的各个设计环节；第6章讨论了LTE系统采用的各种自适应技术和物理过程；第7章介绍了LTE空中接口协议的结构和设计；第8章介绍了LTE无线接入网络的各项功能和各个接口；第9章介绍了LTE的进一步演进版本LTE-Advanced的发展趋势。 本书能够帮助我国的LTE研发和工程人员加深对LTE标准的理解，并为我国企业和高校研究人员研究和设计新一代宽带无线移动系统提供参考。,3GPP长期演进,https://img9.doubanio.com/view/subject/s/public/s3368585.jpg,,“863”通信高技术丛书,,,
+22,姜丹,中国科学技术大学出版社,2009-12,797,70.00元,平装,9787312023293,"《信息论与编码(第3版)》系统论述香农信息论的基本理论，介绍编码的基本方法。全书共分12章。内容包括：信息的定义、信息论的基本思路；单符号离散信源与信道、信息熵、互信息、信道容量、数据处理定理、加权熵、效用信息熵；多符号离散信源与信道、极限熵、独立并列信道的信道容量；连续信源与信道、相对熵、高斯白噪声加性信道的信道容量；无失真信源编码定理、霍夫曼编码方法；抗干扰信道编码定理、线性分组码、汉明码与扩展汉明码；限失真信源编码定理、信息率-失真函数、数据压缩原理、信息价值、广义信息率-失真函数；信源-信道编码定理；网络信息理论等。
+
+《信息论与编码(第3版)》可作为高等院校、科研院所相关专业的研究生、高年级本科生的教材或教学参考书，也可供从事信息理论、信息技术和信息科学的教学、科研和工程技术人员参考。",信息论与编码,https://img9.doubanio.com/view/subject/s/public/s6138475.jpg,,,,,
+23,,,,,,,9783319454252,"This book describes a new concept for analyzing RF/microwave circuits, which includes RF/microwave antennas. The book is unique in its emphasis on practical and innovative microwave RF engineering applications. The analysis is based on nonlinear dynamics and chaos models and shows comprehensive benefits and results. All conceptual RF microwave circuits and antennas are innovative and can be broadly implemented in engineering applications. Given the dynamics of RF microwave circuits and antennas, they are suitable for use in a broad range of applications. The book presents analytical methods for microwave RF antennas and circuit analysis, concrete examples, and geometric examples. The analysis is developed systematically, starting with basic differential equations and their bifurcations, and subsequently moving on to fixed point analysis, limit cycles and their bifurcations. Engineering applications include microwave RF circuits and antennas in a variety of topological structures, RFID ICs and antennas, microstrips, circulators, cylindrical RF network antennas, Tunnel Diodes (TDs), bipolar transistors, field effect transistors (FETs), IMPATT amplifiers, Small Signal (SS) amplifiers, Bias-T circuits, PIN diode circuits, power amplifiers, oscillators, resonators, filters, N-turn antennas, dual spiral coil antennas, helix antennas, linear dipole and slot arrays, and hybrid translinear circuits. In each chapter, the concept is developed from the basic assumptions up to the final engineering outcomes. The scientific background is explained at basic and advanced levels and closely integrated with mathematical theory. The book also includes a wealth of examples, making it ideal for intermediate graduate level studies. It is aimed at electrical and electronic engineers, RF and microwave engineers, students and researchers in physics, and will also greatly benefit all engineers who have had no formal instruction in nonlinear dynamics, but who now desire to bridge the gap between innovative microwave RF circuits and antennas and advanced mathematical analysis methods.
+
+投诉",Microwave RF Antennas and Circuits: Nonlinearity Applications in Engineering,https://img3.doubanio.com/view/subject/s/public/s32257920.jpg,,,,,
+24,大卫·霍克尼 / 马丁·盖福德,浙江人民美术出版社,2022-1-1,280,180,精装,9787534090004,"“我们失去了与大自然的联系，这是相当愚蠢的，因为我们是它的一部分，而不是置身其外。疫情迟早会结束，然后呢？我们从中学到了什么呢？……生活中唯一真实的东西就是食物和爱，就是按照这个顺序的，就跟我们的小狗鲁比一样……艺术的源泉是爱。我热爱生活。”
+
+——大卫•霍克尼
+
+年届80之际，大卫•霍克尼第一次寻求宁静的村居生活，寻求一处可以观看日出和季节变换之地，一处可以抵挡世界的疯狂之地。因此当新冠病毒和封锁袭来时，在“大花园”的生活变化甚微，一年以前，霍克尼在诺曼底历史悠久的农舍中建起了自己的工作室，以便描绘春至之景。事实上，他从强制性的隔离中获得了乐趣，将其当作让自己加倍投身于艺术的良机。
+
+《春天终将来临》是一篇令人振奋的宣言，它证实了艺术转移注意与鼓舞人心的能力。本书基于霍克尼和艺术批评家马丁•盖福德之间大量的全新对谈与通信，盖福德是霍克尼长期的友伴及合作者。与他们的交流相配的，是一系列霍克尼在诺曼底所画下的iPad素描和油画，均为未发表过的全新之作，以及凡•高、莫奈、勃鲁盖尔等人的巨作。
+
+我们可以看到霍克尼是如何被他那富于感染力的热情和惊奇感一直驱动前行。他背道而驰的一生，受公众瞩目60年之久，同时却在批评家的视野和历史之中缺席。他完全被法国北部的四英亩土地吸引了，同样吸引他的还有数十年来让他着迷的那些主题：光线、色彩、空间、感知、水流、树木。他有很多可以教给我们的事情，不光是关于如何观看……亦是关于如何生活。
+
+投诉",春天终将来临,https://img1.doubanio.com/view/subject/s/public/s34078008.jpg,万木春 审订 / 胡雅婷 杨素瑶 译,,大卫·霍克尼在诺曼底,SPRING CANNOT BE CANCELLED,
+25,Alan V. Oppenheim / Alan S. Willsky,电子工业出版社,2013-1,605,69.00元,平装,9787121194276,《国外电子与通信教材系列:信号与系统(第2版)》是美国麻省理工学院（MIT）的经典教材之一，讨论了信号与系统分析的基本理论、基本分析方法及其应用。全书共分11章，主要讲述了线性系统的基本理论、信号与系统的基本概念、线性时不变系统、连续与离散信号的傅里叶表示、傅里叶变换以及时域和频域系统的分析方法等内容。作者使用了大量在滤波、采样、通信和反馈系统中的实例，并行讨论了连续系统、离散系统、时域系统和频域系统的分析方法，使读者能透彻地理解各种信号系统的分析方法并比较其异同。,信号与系统,https://img2.doubanio.com/view/subject/s/public/s25507582.jpg,刘树棠,国外电子与通信教材系列,信号与系统,,
+26,童效勇,人民邮电出版社,2004-10,303,26.0,平装,9787115125002,《业余无线电通信》(修订本)既可作为开展业余电台活动的教材，也可作为业余无线电爱好者的自修读本和手册。相信本书的出版一定会对我国业余电台活动的健康发展起到重大作用。,业余无线电通信,https://img9.doubanio.com/view/subject/s/public/s9917416.jpg,,,,,
+27,"Guha, Debatosh; Antar, Yahia M. M.;",,2011-1,504,1120.00 元,,9780470681923,"This book focuses on new techniques, analysis, applications and future trends of microstrip and printed antenna technologies, with particular emphasis to recent advances from the last decade Attention is given to fundamental concepts and techniques, their practical applications and the future scope of developments. Several topics, essayed as individual chapters include reconfigurable antenna, ultra-wideband (UWB) antenna, reflectarrays, antennas for RFID systems and also those for body area networks. Also included are antennas using metamaterials and defected ground structures (DGSs). Essential aspects including advanced design, analysis and optimization techniques based on the recent developments have also been addressed. Key Features: Addresses emerging hot topics of research and applications in microstrip and printed antennas Considers the fundamental concepts, techniques, applications and future scope of such technologies Discusses modern applications such as wireless base station to mobile handset, satellite earth station to airborne communication systems, radio frequency identification (RFID) to body area networks, etc. Contributions from highly regarded experts and pioneers from the US, Europe and Asia This book provides a reference for R&D researchers, professors, practicing engineers, and scientists working in these fields. Graduate students studying/working on related subjects will find this book as a comprehensive literature for understanding the present and future trends in microstrip and printed antennas.
+
+投诉",Microstrip and Printed Antennas,https://img9.doubanio.com/view/subject/s/public/s6777006.jpg,,,,,
